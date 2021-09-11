@@ -1,2 +1,12 @@
-# Live-Code-Video-Share
-This repository contains the code for the live code and video share web application built using the MERN stack
+# Interview Helper
+This is an web application which is particularly useful for conducting techinical interviews through which people can share code while staying connected through video chat
+
+### Features
+- Authentication
+- Live code sharing
+- Video calling
+
+[-- TO BE UPDATED --]
+
+
+  
