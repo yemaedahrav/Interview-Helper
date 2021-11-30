@@ -5,8 +5,4 @@ This is an web application which is particularly useful for conducting techinica
 - Authentication
 - Live code sharing
 - Video calling
-
-[-- TO BE UPDATED --]
-
-
   
